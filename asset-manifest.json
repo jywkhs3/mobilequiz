@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mobilequiz/static/css/main.ab454922.css",
+    "main.js": "/mobilequiz/static/js/main.5353a526.js",
+    "static/media/background.jfif": "/mobilequiz/static/media/background.532b471870cf0860b7d6.jfif",
+    "static/media/food.png": "/mobilequiz/static/media/food.1bcaf7044ba9d6b66d37.png",
+    "static/media/daily.png": "/mobilequiz/static/media/daily.bcf00d6e7a1cc9e81705.png",
+    "static/media/car.png": "/mobilequiz/static/media/car.b33f7dca8a07dce437ff.png",
+    "index.html": "/mobilequiz/index.html",
+    "main.ab454922.css.map": "/mobilequiz/static/css/main.ab454922.css.map",
+    "main.5353a526.js.map": "/mobilequiz/static/js/main.5353a526.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab454922.css",
+    "static/js/main.5353a526.js"
+  ]
+}
