@@ -1,0 +1,15 @@
+.hint{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+input{
+  
+  border: none;
+  outline: none;
+  border-bottom: 3px solid #222;
+}
+.buttons{
+
+}

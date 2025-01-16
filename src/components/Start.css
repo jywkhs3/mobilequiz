@@ -1,0 +1,30 @@
+.start{
+  display: flex;
+  justify-content: center;
+}
+h1{
+  position: fixed;
+  top: 340px;
+  font-size: 2.5rem;
+}
+.start> p{
+  font-weight: bold;
+  position: fixed;
+  top: 400px;
+}
+.start-btn{
+  width: 300px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  background-color: var(--button1-color);
+  opacity: 0.5;
+  position: fixed;
+  bottom: 150px;
+  color: #fff;
+  font-size: 2rem;
+  cursor: pointer;
+}
+.start-btn:hover{
+  opacity: 1;
+}
