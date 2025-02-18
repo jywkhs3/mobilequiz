@@ -8,7 +8,7 @@ const mockData = {
         { id: 902, question: "이력서", answer: "Resume", hint: "R" },
         { id: 903, question: "연락처", answer: "Contact", hint: "C" },
         { id: 904, question: "편지", answer: "Letter", hint: "L" },
-        { id: 905, question: "자료", answer: "Material", hint: "M" },
+        { id: 905, question: "재료", answer: "Material", hint: "M" },
       ],
     },
     {
