@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/mobilequiz/static/css/main.ab454922.css",
-    "main.js": "/mobilequiz/static/js/main.5353a526.js",
+    "main.css": "/mobilequiz/static/css/main.28ad5336.css",
+    "main.js": "/mobilequiz/static/js/main.20983be3.js",
     "static/media/background.jfif": "/mobilequiz/static/media/background.532b471870cf0860b7d6.jfif",
+    "static/media/B.png": "/mobilequiz/static/media/B.df581f688ca2100ba91c.png",
+    "static/media/A.png": "/mobilequiz/static/media/A.ed6b240ee55a4ec0d4d2.png",
+    "static/media/D.png": "/mobilequiz/static/media/D.c848944680eab4c93a90.png",
+    "static/media/C.png": "/mobilequiz/static/media/C.bfeeeec911c300efe691.png",
     "static/media/food.png": "/mobilequiz/static/media/food.1bcaf7044ba9d6b66d37.png",
     "static/media/daily.png": "/mobilequiz/static/media/daily.bcf00d6e7a1cc9e81705.png",
     "static/media/car.png": "/mobilequiz/static/media/car.b33f7dca8a07dce437ff.png",
     "index.html": "/mobilequiz/index.html",
-    "main.ab454922.css.map": "/mobilequiz/static/css/main.ab454922.css.map",
-    "main.5353a526.js.map": "/mobilequiz/static/js/main.5353a526.js.map"
+    "main.28ad5336.css.map": "/mobilequiz/static/css/main.28ad5336.css.map",
+    "main.20983be3.js.map": "/mobilequiz/static/js/main.20983be3.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab454922.css",
-    "static/js/main.5353a526.js"
+    "static/css/main.28ad5336.css",
+    "static/js/main.20983be3.js"
   ]
 }
