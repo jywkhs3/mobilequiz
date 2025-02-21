@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/mobilequiz/static/css/main.28ad5336.css",
-    "main.js": "/mobilequiz/static/js/main.20983be3.js",
+    "main.css": "/mobilequiz/static/css/main.9789ce45.css",
+    "main.js": "/mobilequiz/static/js/main.c7b7def1.js",
     "static/media/background.jfif": "/mobilequiz/static/media/background.532b471870cf0860b7d6.jfif",
     "static/media/B.png": "/mobilequiz/static/media/B.df581f688ca2100ba91c.png",
     "static/media/A.png": "/mobilequiz/static/media/A.ed6b240ee55a4ec0d4d2.png",
@@ -11,11 +11,11 @@
     "static/media/daily.png": "/mobilequiz/static/media/daily.bcf00d6e7a1cc9e81705.png",
     "static/media/car.png": "/mobilequiz/static/media/car.b33f7dca8a07dce437ff.png",
     "index.html": "/mobilequiz/index.html",
-    "main.28ad5336.css.map": "/mobilequiz/static/css/main.28ad5336.css.map",
-    "main.20983be3.js.map": "/mobilequiz/static/js/main.20983be3.js.map"
+    "main.9789ce45.css.map": "/mobilequiz/static/css/main.9789ce45.css.map",
+    "main.c7b7def1.js.map": "/mobilequiz/static/js/main.c7b7def1.js.map"
   },
   "entrypoints": [
-    "static/css/main.28ad5336.css",
-    "static/js/main.20983be3.js"
+    "static/css/main.9789ce45.css",
+    "static/js/main.c7b7def1.js"
   ]
 }
