@@ -9,7 +9,7 @@ const Menu = ({categories,onSelected,onBack}) => {
   return (
     <div className='menu'>
       <img onClick={onBack} src={back} className='back' alt='뒤로가기'/>
-      <h2>퀴즈 카테고리</h2>
+      <h2>카테고리</h2>
       <div className='category'> 
         {
           categories.map((obj,idx)=>{

@@ -29,7 +29,9 @@ const Result = ({onHome,onResult,score}) => {
 
   return (
     <div className='result'>
-      <h2 className='test-result'>테스트 결과</h2>
+      <div className='title-wrap'>
+      <h2>테스트 결과</h2>
+      </div>
       <div className='level'>
         <p>Level</p>
         <p>{level}</p>
